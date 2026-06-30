@@ -1,0 +1,17 @@
+{
+  "name": "skill-alpha-f6-family-position-reverse",
+  "type": "skill",
+  "license": "GPL-3.0-only",
+  "language": ["zh-CN", "en"],
+  "recommended_repository": "skill-alpha-f6-family-position-reverse",
+  "current_repository": "alpha-f6-family-position-reverse",
+  "description": "F6 commodity futures family-position reverse factor research skill.",
+  "runtime_entries": {
+    "codex": "AGENTS.md",
+    "claude_code": "CLAUDE.md",
+    "cursor": ".cursor/rules/skill-alpha-f6-family-position-reverse.mdc",
+    "hermes": "HERMES.md",
+    "openclaw": "OPENCLAW.md"
+  },
+  "disclaimer": "Research tooling only. No investment advice, return promise, sensitive credential, or official endorsement is included."
+}

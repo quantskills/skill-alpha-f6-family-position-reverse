@@ -1,0 +1,17 @@
+---
+description: Use when working with the F6 commodity futures family-position reverse QuantSkills skill.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+
+# Cursor Runtime Entry
+
+Read `SKILL.md` first.
+
+Use `alpha-f6-family-position-reverse/SKILL.md` for development, validation and
+backtesting. Use `alpha-f6-family-position-reverse-production/SKILL.md` only for
+read-only access to `database.parquet`.
+
+Do not commit credentials. Do not present factor output as investment advice,
+return promises, or official endorsement.
