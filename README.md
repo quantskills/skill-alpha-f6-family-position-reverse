@@ -139,3 +139,6 @@ python scripts/backtest.py
 ## 许可证
 
 本仓库使用 `GPL-3.0-only`。见 `LICENSE`。
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。

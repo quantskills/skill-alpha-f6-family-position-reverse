@@ -73,3 +73,6 @@ credentials. Live factor, validation and backtest commands require:
 ## License
 
 GPL-3.0-only. See `LICENSE`.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

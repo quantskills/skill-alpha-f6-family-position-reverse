@@ -55,3 +55,7 @@ Panda data, Codex, Claude Code, Cursor, Hermes or OpenClaw.
 
 The recommended public repository name is
 `skill-alpha-f6-family-position-reverse`.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
